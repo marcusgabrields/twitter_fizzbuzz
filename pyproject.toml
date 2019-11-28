@@ -6,7 +6,7 @@ authors = ["Marcus Gabriel <marcusgabriel.ds@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6"
 flask = "^1.1"
 flask-sqlalchemy = "^2.4"
 requests_oauthlib = "^1.3"
